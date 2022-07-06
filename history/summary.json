@@ -4,7 +4,7 @@
     "url": "https://www.kappaml.com",
     "icon": "https://favicons.githubusercontent.com/www.kappaml.com",
     "slug": "kappa-ml",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 343,
     "timeYear": 373,
     "dailyMinutesDown": {
+      "2022-07-06": 0,
       "2022-06-08": 18,
       "2022-05-17": 15,
       "2022-05-02": 35,
