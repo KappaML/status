@@ -2,7 +2,7 @@
   {
     "name": "KappaML",
     "url": "https://www.kappaml.com",
-    "icon": "https://favicons.githubusercontent.com/www.kappaml.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.kappaml.com.ico",
     "slug": "kappa-ml",
     "status": "up",
     "uptime": "99.94%",
@@ -11,8 +11,8 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
     "time": 382,
-    "timeDay": 354,
-    "timeWeek": 323,
+    "timeDay": 251,
+    "timeWeek": 306,
     "timeMonth": 469,
     "timeYear": 382,
     "dailyMinutesDown": {
@@ -31,7 +31,7 @@
   {
     "name": "KappaML Application",
     "url": "https://app.kappaml.com",
-    "icon": "https://favicons.githubusercontent.com/app.kappaml.com",
+    "icon": "https://icons.duckduckgo.com/ip3/app.kappaml.com.ico",
     "slug": "kappa-ml-application",
     "status": "up",
     "uptime": "99.99%",
@@ -40,9 +40,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 128,
-    "timeDay": 128,
-    "timeWeek": 98,
-    "timeMonth": 110,
+    "timeDay": 147,
+    "timeWeek": 110,
+    "timeMonth": 112,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2022-07-29": 22
