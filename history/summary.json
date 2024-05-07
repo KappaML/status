@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kappaml.com.ico",
     "slug": "kappa-ml",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 312,
-    "timeDay": 299,
-    "timeWeek": 229,
-    "timeMonth": 281,
+    "timeDay": 310,
+    "timeWeek": 223,
+    "timeMonth": 283,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2023-07-25": 26
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 55,
-    "timeWeek": 92,
-    "timeMonth": 98,
+    "timeDay": 114,
+    "timeWeek": 94,
+    "timeMonth": 99,
     "timeYear": 103,
     "dailyMinutesDown": {}
   }
