@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 300,
-    "timeDay": 191,
-    "timeWeek": 294,
-    "timeMonth": 279,
-    "timeYear": 294,
-    "dailyMinutesDown": {
-      "2023-07-25": 26
-    }
+    "timeDay": 164,
+    "timeWeek": 279,
+    "timeMonth": 261,
+    "timeYear": 293,
+    "dailyMinutesDown": {}
   },
   {
     "name": "KappaML Application",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 134,
-    "timeWeek": 120,
-    "timeMonth": 119,
-    "timeYear": 104,
+    "timeDay": 131,
+    "timeWeek": 122,
+    "timeMonth": 121,
+    "timeYear": 105,
     "dailyMinutesDown": {}
   }
 ]
