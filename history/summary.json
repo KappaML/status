@@ -6,18 +6,16 @@
     "slug": "kappa-ml",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 290,
-    "timeDay": 217,
-    "timeWeek": 815,
-    "timeMonth": 441,
+    "timeDay": 247,
+    "timeWeek": 820,
+    "timeMonth": 444,
     "timeYear": 305,
-    "dailyMinutesDown": {
-      "2025-01-26": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "KappaML Application",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 134,
-    "timeWeek": 141,
-    "timeMonth": 133,
+    "timeDay": 160,
+    "timeWeek": 149,
+    "timeMonth": 136,
     "timeYear": 120,
     "dailyMinutesDown": {}
   }
