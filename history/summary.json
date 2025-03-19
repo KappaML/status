@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 1052,
-    "timeWeek": 463,
-    "timeMonth": 322,
+    "time": 294,
+    "timeDay": 236,
+    "timeWeek": 478,
+    "timeMonth": 320,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2025-01-29": 25
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.kappaml.com.ico",
     "slug": "kappa-ml-api-docs",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 1428,
-    "timeDay": 3666,
-    "timeWeek": 2449,
-    "timeMonth": 1428,
-    "timeYear": 1428,
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 1398,
+    "timeDay": 764,
+    "timeWeek": 2484,
+    "timeMonth": 1398,
+    "timeYear": 1398,
     "dailyMinutesDown": {
       "2025-03-16": 19
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 139,
-    "timeWeek": 155,
-    "timeMonth": 153,
+    "timeDay": 161,
+    "timeWeek": 161,
+    "timeMonth": 154,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2025-01-29": 25
