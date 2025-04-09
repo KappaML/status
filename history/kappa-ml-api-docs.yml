@@ -1,7 +1,7 @@
 url: https://api.kappaml.com/docs
-status: up
-code: 200
-responseTime: 576
-lastUpdated: 2025-04-08T23:52:36.480Z
+status: down
+code: 503
+responseTime: 790
+lastUpdated: 2025-04-09T01:25:39.969Z
 startTime: 2025-03-02T18:18:24.296Z
 generator: Upptime <https://github.com/upptime/upptime>
