@@ -4,17 +4,17 @@
     "url": "https://www.kappaml.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.kappaml.com.ico",
     "slug": "kappa-ml",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 348,
-    "timeDay": 319,
-    "timeWeek": 269,
-    "timeMonth": 966,
-    "timeYear": 372,
+    "time": 354,
+    "timeDay": 1752,
+    "timeWeek": 633,
+    "timeMonth": 1035,
+    "timeYear": 380,
     "dailyMinutesDown": {
       "2025-01-29": 25
     }
